@@ -1,0 +1,6 @@
+name: BlockRegen
+main: gigabyteDX.Main
+version: 1.0
+description: >
+             Youtube Plugin.
+commands:

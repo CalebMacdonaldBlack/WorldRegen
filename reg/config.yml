@@ -1,0 +1,41 @@
+#blocks authorised to regenerate
+RegenBlocks:
+  - GRASS
+  - DIRT
+  - AIR
+  - STONE
+  - GOLD_ORE
+  - IRON_ORE
+  - COAL_ORE
+  - LOG
+  - LEAVES
+  - LAPIS_ORE
+  - SAND_STONE
+  - SAND
+  - DIAMOND_ORE
+  - REDSTONE_ORE
+  - SNOW
+  - SNOW_BLOCK
+  - ICE
+  - SUGAR_CANE_BLOCK
+  - VINE
+  - NEATHER_BRICK
+  - NEATHER_FENCE
+  - NEATHER_BRICK_STAIRS
+  - EMERALD_ORE
+  - QUARTZ_ORE
+  - HARD_CLAY
+  - STAINED_CLAY
+  - SAND
+  - CACTUS
+#blocks that regenerate longer than usual
+MiningBlocks:
+  - GOLD_ORE
+  - IRON_ORE
+  - COAL_ORE
+  - LAPIS_ORE
+  - DIAMOND_ORE
+  - REDSTONE_ORE
+  - EMERALD_ORE
+  - QUARTZ_ORE
+RegenerationTimeInSeconds: 1
